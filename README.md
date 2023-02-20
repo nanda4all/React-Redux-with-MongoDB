@@ -6,8 +6,7 @@ npm init -y		// it will create a “package.json” file
 npm i express mongoose cors
 npm i -g nodemon
 add "type": "module"  in package.json
-===========
-======
+
 nodemon index	// to connect to database and keep running
 
 frontend
